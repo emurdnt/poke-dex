@@ -1,3 +1,2 @@
-Poke-dex
-
-Gotta catch em all!
+# poke-dex
+Gotta catch 'em all!
